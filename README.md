@@ -28,7 +28,7 @@
   - Managed user accounts
   - Practiced administrative tasks
  
-  ### Networking Labs
+  ## Networking Labs
   - VLAN configuration
   - Subnetting
   - Routing concepts
