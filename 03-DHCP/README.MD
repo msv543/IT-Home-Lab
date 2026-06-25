@@ -10,7 +10,7 @@
 4. Configure a DHCP scope of 100 IP addresses.
 5. Ensure PC1 has an IP within that scope.
 
-##Results
+## Results
 DHCP Installed.
 IP scope of 192.168.10.100 - 192.168.10.200
 PC1 has IP of 192.168.10.101, within our scope.
