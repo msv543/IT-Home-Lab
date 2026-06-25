@@ -10,25 +10,25 @@
 - VMware Workstation
 - Windows 11
 
-  ## Lab Projects
+## Lab Projects
 
-  ## Active Directory Domain Setup
+## Active Directory Domain Setup
   - Installed Windows Server 2022
   - Promoted server to Domain Controller
   - Configured Active Directory Domain Services
   - Created Organizational units, users, and groups
  
-  ## DNS and DHCP
+## DNS and DHCP
   - Configured DNS zones
   - Created DHCP scopes
   - Verified client IP assignment
  
-  ## PowerShell Administration
+## PowerShell Administration
   - Queried Active Directory users
   - Managed user accounts
   - Practiced administrative tasks
  
-  ## Networking Labs
+## Networking Labs
   - VLAN configuration
   - Subnetting
   - Routing concepts
