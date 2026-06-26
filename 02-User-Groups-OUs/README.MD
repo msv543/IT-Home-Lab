@@ -1,4 +1,4 @@
-# Users, Groups, and OUs 
+# OUs, Groups, Users
 
 ## Objective
 Create and organize Active Directory users, security groups, and Organizational Units (OUs) to simulate a basic corporate environment.
