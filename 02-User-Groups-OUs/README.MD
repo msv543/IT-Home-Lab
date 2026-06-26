@@ -1,17 +1,31 @@
 # Users, Groups, and OUs 
 
 ## Objective
-Create and implement Users, Groups, and OUs.
+Create and organize Active Directory users, security groups, and Organizational Units (OUs) to simulate a basic corporate environment.
 
 ## Steps Peformed
 
-1. Created a Domain-Admin.
-2. Created 3 OUs in AD DS.
-3. Created 1 Group for each OU.
-4. Created 2 Users to assign to each OU.
-5. Assigned users to their group assigned to their OU.
+1. Created a dedicated Domain Administrator account.
+2. Created three Organizational Units (OUs):
+- HR
+- Sales
+- IT
+3. Created one security group for each OU.
+- HR-Access
+- Sales-Access
+- IT-Access
+4. Created two user accounts within each OU.
+5. Added users to their corresponding security groups.
+6. Verified group membership and OU placement in Active Directory Users and Computers.
 
 
 ## Results
-Created 1 Domain-admin, 3 OUs, 1 Group for each OU, Two users for each OU that is assigned to their group.
-  
+
+- Successfully implemented a basic Active Directory structure.
+- Created:
+  - 1 Domain Administrator account
+  - 3 Organizational Units
+  - 3 Security Groups
+  - 6 User Accounts
+- Assigned users to security groups based on department.
+- Established a foundation for future Group Policy, file share permissions, and drive mapping labs.
