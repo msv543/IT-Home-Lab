@@ -10,6 +10,7 @@ Build a Windows Server Domain Controller.
 3. Installed AD DS role
 4. Promoted server to Domain Controller
 5. Created martinlab.local domain
+6. Verify functionality
 
 ## Results
 
