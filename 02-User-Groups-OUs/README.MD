@@ -6,10 +6,11 @@ Create and organize Active Directory users, security groups, and Organizational 
 ## Steps Peformed
 
 1. Created a dedicated Domain Administrator account.
-2. Created three Organizational Units (OUs):
+2. Created four Organizational Units (OUs):
 - HR
 - Sales
 - IT
+- Admins
 3. Created one security group for each OU.
 - HR-Access
 - Sales-Access
@@ -24,8 +25,8 @@ Create and organize Active Directory users, security groups, and Organizational 
 - Successfully implemented a basic Active Directory structure.
 - Created:
   - 1 Domain Administrator account
-  - 3 Organizational Units
+  - 4 Organizational Units
   - 3 Security Groups
-  - 6 User Accounts
+  - 7 User Accounts
 - Assigned users to security groups based on department.
 - Established a foundation for future Group Policy, file share permissions, and drive mapping labs.
