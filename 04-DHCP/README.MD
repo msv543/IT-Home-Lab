@@ -1,6 +1,8 @@
 # DHCP Installation & Configuration
 
-## Deploy and configure Dynamic Host Configuration Protocol (DHCP) services to automatically assign IP addressing information to client devices within the network.
+## Objective
+
+Deploy and configure Dynamic Host Configuration Protocol (DHCP) services to automatically assign IP addressing information to client devices within the network.
 
 ## Steps Performed
 
