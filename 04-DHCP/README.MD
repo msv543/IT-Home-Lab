@@ -1,18 +1,22 @@
 # DHCP Installation & Configuration
 
-## Objective Download DHCP and Configure a Scope Lease
+## Deploy and configure Dynamic Host Configuration Protocol (DHCP) services to automatically assign IP addressing information to client devices within the network.
 
 ## Steps Performed
 
-1. Installed DHCP.
-2. Configure Default Gateway as Router IP.
-3. Configure DNS as Domain Controller IP.
-4. Configure a DHCP scope of 100 IP addresses.
-5. Ensure PC1 has an IP within that scope.
+1. Installed and authorized the DHCP Server role on Windows Server.
+2. Configured the default gateway option to use the router's IP address.
+3. Configured the DNS server option to use the Domain Controller's IP address.
+4. Created and activated a DHCP scope for client devices.
+5. Defined an address pool ranging from 192.168.100.100 to 192.168.100.200
+6. Verified that client workstation can successfully obtain IP configuration information from the DHCP server.
+7. Confirmed network connectivity and proper lease assignment on the client workstation (PC1).
 
 ## Results
-DHCP Installed.
 
-Configured an IP scope of 192.168.10.100 - 192.168.10.200
-
-PC1 has IP of 192.168.10.101, within our scope.
+- Successfully deployed and configured a DHCP server.
+- Created and activated a DHCP scope with an address range of 192.168.100.100 - 192.168.100.200.
+- Configured DHCP options for default gateway and DNS server distribution.
+- Verified successful lease assignment to PC1.
+- Confirmed PC1 recieved the IP address 192.168.100.101, which falls within the configured DHCP scope.
+- Established automated IP address management for domain-connected devices.
