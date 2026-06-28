@@ -9,15 +9,13 @@ Configure and manage DNS services in an Active Directory environment to support 
 1. Opened DNS Manager on the Domain Controller and reviewed the Active Directory-intergrated Forward Lookup Zone.
 2. Examined existing DNS records including A, NS, SOA, and SRV records using Active Directory.
 3. Created DNS Host (A) records for FILESERVER, PRINTSERVER, and APPSERVER.
-4. Verified hostname resolution from Windows 11 client using nslookup and ping.
+4. Verified hostname resolution from Windows 11 client using nslookup.
 5. Created a Reverse Lookup Zone for the lab network.
 6. Verified reverse DNS resolution by testing IP-to-hostname lookups using nslookup.
 7. Configured DNS Forwarders to allow external name resolution.
 8. Test internet hostname resolution through the DNS server.
-9. Flush the client DNS cache and resgistered the client computer record using ipconfig /flushdns and ipconfig /registerdns.
-10. Verified successful Dynamic DNS registration within the DNS zone.
-11. Created a CNAME (Alias) record to provide an alternate hostname for a network resource.
-12. Simulated a DNS resolution issue by modifying a host record and performed troubleshooting to restore proper functionality.
+9. Verified successful Dynamic DNS registration within the DNS zone.
+10. Created a CNAME (Alias) record to provide an alternate hostname for a network resource.
 
 ## Results
 
@@ -25,5 +23,4 @@ Configure and manage DNS services in an Active Directory environment to support 
 - Created and validated Host (A), PTR, and CNAME records.
 - Verified both forward and reverse DNS resolutions.
 - Confirmed Dynamic DNS registration for domain-joined clients.
-- Demonstrated DNS troubleshooting and record management skills required in enterprise Windows environments.
 - Verified proper DNS functionality to support Active Directory authentication and network resource access.
