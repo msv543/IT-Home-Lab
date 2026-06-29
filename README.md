@@ -9,7 +9,7 @@ The lab was built from the ground up and includes the deployment and configurati
 ## Lab Environment
 
 ### Infrastructure
-= Windows Server 2025 Domain Controller
+- Windows Server 2025 Domain Controller
 - Windows 11 Client Workstations
 - Active Directory Domain Services (AD DS)
 - DNS Server
@@ -18,7 +18,7 @@ The lab was built from the ground up and includes the deployment and configurati
 - Microsoft LAPS
 - Shared File Resources
 
-## Technologies Used
+### Technologies Used
 - Active Directory Users and Computers
 - Group Policy Management Console (GPMC)
 - DNS Manager
@@ -29,6 +29,7 @@ The lab was built from the ground up and includes the deployment and configurati
 - SMB File Sharing
 
 ## Labs Completed
+
 1. Domain Controller Deployment
 2. Organizational Units, Users, and Groups
 3. Domain Join
